@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/portfolio_react/static/js/main.d485d252.chunk.js",
+    "main.js.map": "/portfolio_react/static/js/main.d485d252.chunk.js.map",
+    "runtime-main.js": "/portfolio_react/static/js/runtime-main.8973b9cb.js",
+    "runtime-main.js.map": "/portfolio_react/static/js/runtime-main.8973b9cb.js.map",
+    "static/js/2.125b01e8.chunk.js": "/portfolio_react/static/js/2.125b01e8.chunk.js",
+    "static/js/2.125b01e8.chunk.js.map": "/portfolio_react/static/js/2.125b01e8.chunk.js.map",
+    "index.html": "/portfolio_react/index.html",
+    "static/js/2.125b01e8.chunk.js.LICENSE.txt": "/portfolio_react/static/js/2.125b01e8.chunk.js.LICENSE.txt",
+    "static/media/Portfolio_Home.ebe05b8e.png": "/portfolio_react/static/media/Portfolio_Home.ebe05b8e.png",
+    "static/media/SmartBanking_Home.2f6f7777.png": "/portfolio_react/static/media/SmartBanking_Home.2f6f7777.png",
+    "static/media/about.9fd94bdd.png": "/portfolio_react/static/media/about.9fd94bdd.png",
+    "static/media/avatar.74191db9.png": "/portfolio_react/static/media/avatar.74191db9.png",
+    "static/media/design.8ecb3043.svg": "/portfolio_react/static/media/design.8ecb3043.svg",
+    "static/media/intelligence.11bd2ab2.svg": "/portfolio_react/static/media/intelligence.11bd2ab2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8973b9cb.js",
+    "static/js/2.125b01e8.chunk.js",
+    "static/js/main.d485d252.chunk.js"
+  ]
+}
